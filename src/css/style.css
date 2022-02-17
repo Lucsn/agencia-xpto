@@ -126,17 +126,17 @@ html {
 }
 
 .conteudo-principal .paineis .projeto1 {
-    background-image: url('./src/images/painel1.jpg');
+    background-image: url(./src/images/painel1.jpg);
 
 }
 
 .conteudo-principal .paineis .projeto2 {
-    background-image: url('./src/images/painel2.jpg');
+    background-image: url(./src/images/painel2.jpg);
 
 }
 
 .conteudo-principal .paineis .projeto3 {
-    background-image: url('./src/images/painel3.jpg');
+    background-image: url(./src/images/painel3.jpg);
 
 }
 
@@ -148,7 +148,7 @@ html {
 }
 
 .conteudo-principal .paineis .seta {
-    background-image: url('./src/images/seta.png');
+    background-image: url(./src/images/seta.png);
     background-size: contain;
     width: 50px;
     height: 50px;
